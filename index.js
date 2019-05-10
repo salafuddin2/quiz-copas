@@ -1,6 +1,6 @@
 (function() {
   var questions = [{
-    question: "Berapa 2*5?",
+    question: "Berapa sih perkalian ini 2*5?",
     "image"         :   "http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/US_%242_obverse-high.jpg/320px-US_%242_obverse-high.jpg",
     choices: [2, 5, 10, 15, 20],
     correctAnswer: 2
